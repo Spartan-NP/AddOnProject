@@ -1,0 +1,36 @@
+.product__block{
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    padding: 20px;
+    margin-top:5px ;
+    
+}
+.product__heading{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+.product__img{
+    width:100%;
+    height: 80%;
+    object-fit: cover;
+    cursor: pointer;
+    
+}
+.product__shopNow{
+    font-size: 15px;
+    margin-top: 10px;
+    color: rgb(44, 194, 235);
+    cursor: pointer;
+}
+.product__body{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly ;
+    height: 1000px;
+    position: relative;
+    bottom: 200px;
+}

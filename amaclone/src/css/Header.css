@@ -1,0 +1,144 @@
+.header__ {
+  height: 60px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  background-color: #131921;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__logo {
+  width: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+  margin-top: 6px;
+  
+}
+
+.header__search {
+  display: flex;
+  /* flex: 1;
+  flex-grow: 1; */
+  align-items: center;
+  height: 32px;
+  width: 60%;
+  margin-left: 50px;
+}
+
+.header__searchInput {
+  height: 32px;
+  padding: 10px;
+  border: none;
+  width: 80%;
+}
+
+.header__searchIcon {
+  padding: 5px;
+  height: 32px;
+  width:40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cd9042;
+  border-radius: 0 8px 8px 0;
+}
+
+.header__optionLineOne {
+  font-size: 10px;
+}
+
+.header__optionLineTwo {
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.header__optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.header__basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header__nav {
+  /* background-color: aqua; */
+  width: 30%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
+.header__location {
+  display: flex;
+  width: 200px;
+  /* background-color: yellow; */
+  margin-left: 20px;
+}
+.header__locationIcon {
+  margin-top: 5px;
+  color: white;
+}
+.header__select {
+  padding: 5px;
+  height: 32.2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(233, 233, 233);
+  border-right: 1px solid rgb(215, 212, 212);
+  border-radius: 8px 0 0 8px;
+  align-items: center;
+  /* margin-top: 1px; */
+}
+.language__dropdown {
+  font-size: 13px;
+  font-weight: 800;
+  background-color: #131921;
+  border: none;
+  margin-top: 7px;
+}
+.language__dropdown > select {
+  background-color: #131921;
+  border: none;
+  color: white;
+}
+
+/* Nav below bar */
+.navBelowBar {
+  display: flex;
+  width: 100%;
+  height: 30px;
+  position: fixed;
+  z-index: 100;
+}
+.navBelowBar__leftSide {
+  background-color: rgb(66, 66, 67);
+  width: 50%;
+  color: white;
+  align-items: center;
+  padding-left: 10px;
+}
+.navBelowBar__leftSide > span {
+  margin: 10px;
+}
+.navBelowBar__rightSide {
+  background-color: rgb(66, 66, 67);
+  width: 50%;
+  color: white;
+  align-items: center;
+  display: flex;
+  justify-content: end;
+  padding-right: 15px;
+}

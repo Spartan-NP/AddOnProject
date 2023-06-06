@@ -1,0 +1,146 @@
+.buyorder__logopart {
+  width: 100%;
+  height: 70px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+}
+.buyorder__logopart > img {
+  height: 100%;
+  width: 10%;
+  background-color: #fff;
+}
+.buyorder__body__box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 20px; */
+  margin-bottom: 20px;
+  height: 600px;
+}
+.buyorder__body__ {
+  width: 70%;
+  height: 550px;
+  border: 1px solid rgb(184, 182, 182);
+  background-color: transparent;
+  padding: 13px;
+  border-radius: 10px;
+  overflow: hidden;
+  /* margin-bottom: 50px; */
+}
+.buyorder__title {
+  font-size: 25px;
+  font-weight: bold;
+  position: relative;
+}
+hr {
+  color: rgb(173, 172, 172);
+  width: 100%;
+}
+.buyorder_productBox {
+  width: 100%;
+  height: 250px;
+  /* background-color: aquamarine; */
+  display: flex;
+  margin-bottom: 20px;
+}
+.buyorder_productBody {
+  width: 300px;
+  height: 200px;
+  box-shadow: 2px 2px 9px 1px rgb(180, 178, 178);
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+.buyorder_productBody > img {
+  width: 60%;
+  height: 90%;
+  margin-top: 13px;
+}
+.buyorder_textpart {
+  margin-top: 25px;
+  margin-left: 20px;
+  width: 70%;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+.buyorder_textpart > p {
+  font-size: 15px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.buyorder_button {
+  width: 40%;
+  background-color: rgba(255, 191, 0, 0.637);
+  border: none;
+  border-radius: 8px;
+  height: 30px;
+  margin-left: 180px;
+  margin-top: 20px;
+}
+
+.buyorder__input__label {
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+  width: 100%;
+}
+.buyorder__input__label > lable {
+  font-weight: 600;
+}
+.buyorder__input__label > input,
+.buyorder__input__label > textarea {
+  margin-top: 5px;
+  width: 100%;
+  border-radius: 5px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+}
+.modal-footer > button {
+  width: 30%;
+  background-color: rgba(255, 191, 0, 0.637);
+  border: none;
+  border-radius: 8px;
+  height: 30px;
+  margin-left: 70px;
+}
+.modal-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.modal-footer > p {
+  font-size: 20px;
+  font-weight: 600;
+}
+.buyorder-item-count {
+  width: 130px;
+  height: 25px;
+  /* background-color: yellow; */
+  display: flex;
+  justify-content: space-between;
+}
+.hand {
+  cursor: pointer;
+}
+.buyorder-qty,
+.hand {
+  width: 30%;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px 1px;
+}
+.buyorder__allitembox {
+  height: fit-content;
+  padding-bottom: 50px;
+}
+

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0830"
+  },
+  "name": "Dresses",
+  "image": "assets/dresses.jpg",
+  "product_type": 1
+},{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0831"
+  },
+  "name": "Electronics",
+  "image": "assets/electronics",
+  "product_type": 3
+},{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0832"
+  },
+  "name": "Beauty picks",
+  "image": "assets/beauty.jpg",
+  "product_type": 2
+},{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0833"
+  },
+  "name": "Get fit at home",
+  "image": "assets/fit.jpg",
+  "product_type": 4
+},{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0834"
+  },
+  "name": "Kitchen",
+  "image": "assets/kitchen.jpg",
+  "product_type": 8
+},{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0835"
+  },
+  "name": "Smartwatches",
+  "image": "assets/watches.jpg",
+  "product_type": 5
+},{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0836"
+  },
+  "name": "Laptops & Tablets",
+  "image": "assets/laptop.jpg",
+  "product_type": 7
+},{
+  "_id": {
+    "$oid": "62f8d5eb2fa45e6bf92a0837"
+  },
+  "name": "Create strip lights",
+  "image": "assets/light.jpg",
+  "product_type": 6
+}]

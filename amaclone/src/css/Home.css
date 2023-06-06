@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.home__body {
+  background-color: rgb(221, 218, 218);
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+}
+
+.home__container {
+  width: 100%;
+}
+
+.home__image {
+  width: 100%;
+  z-index: -1;
+  margin-bottom: -150px;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+
+.home__amazonIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1500px;
+  background-color: rgb(240, 237, 237);
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  bottom: 210px;
+  height: 35px;
+}
+.home__amazonInPara {
+  margin-top: 15px;
+}

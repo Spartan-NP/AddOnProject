@@ -1,0 +1,482 @@
+[{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799d"
+  },
+  "description": "Amazon Essentials Women's Short-Sleeve Waisted Maxi Dress (Available in Plus Size)",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 666,
+  "image": "assets/Dresses1.jpg",
+  "product_id": 1
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799d"
+  },
+  "description": "PRETTY GARDEN Women's 2023 Floral Summer Dress Wrap V Neck Short Sleeve Belted Ruffle Hem A-Line Bohemian Maxi Dresses",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 599,
+  "image": "assets/Dresses2.jpg",
+  "product_id": 1
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799e"
+  },
+  "description": "The Drop Women's Britt Tiered Maxi Tent Dress",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 450,
+  "image": "assets/Dresses3.jpg",
+  "product_id": 1
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799f"
+  },
+  "description": "Haloumoning Women's Casual Floral Dresses Flutter Short Sleeve Crew Neck Smocked Tiered Midi Dress",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 799,
+  "image": "assets/Dresses4.jpg",
+  "product_id": 1
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799g"
+  },
+  "description": "Floerns Women's Short Sleeve Boho Floral Dress A Line Smocked Midi Dress",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 500,
+  "image": "assets/Dresses5.jpg",
+  "product_id": 1
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799h"
+  },
+  "description": "BTFBM Women Summer Bohemian Floral Casual Wrap V Neck Ruffle Cap Sleeveless Belt A-Line Pleated Hem Swing Midi Sun Dress",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 750,
+  "image": "assets/Dresses6.jpg",
+  "product_id": 1
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799i"
+  },
+  "description": "Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Covering Zits and Blemishes",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 350,
+  "image": "assets/Beauty1.jpg",
+  "product_id": 2
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799j"
+  },
+  "description": "essence | Lash Princess False Lash Effect Mascara | Gluten & Cruelty Free",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 250,
+  "image": "assets/Beauty2.jpg",
+  "product_id": 2
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799k"
+  },
+  "description": "PanOxyl Acne Foaming Wash Benzoyl Peroxide 10% Maximum Strength Antimicrobial, 5.5 Oz",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 399,
+  "image": "assets/Beauty3.jpg",
+  "product_id": 2
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799l"
+  },
+  "description": "Neutrogena Makeup Remover Cleansing Face Wipes, Daily Cleansing Facial Towelettes Remove Makeup",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 299,
+  "image": "assets/Beauty4.jpg",
+  "product_id": 2
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799m"
+  },
+  "description": "CeraVe Moisturizing Cream | Body and Face Moisturizer for Dry Skin | Body Cream with Hyaluronic Acid ",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 599,
+  "image": "assets/Beauty5.jpg",
+  "product_id": 2
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799n"
+  },
+  "description": "Samnyte Hair Wax Stick, Wax Stick for Hair Wigs Edge Control Slick Stick Hair Pomade Stick Non-greasy Styling Wax",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 499,
+  "image": "assets/Beauty6.jpg",
+  "product_id": 2
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799o"
+  },
+  "description": "Apple 20W USB-C Power Adapter - iPhone Charger with Fast Charging Capability, Type C Wall Charger",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 5999,
+  "image": "assets/Electronics1.jpg",
+  "product_id": 3
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799p"
+  },
+  "description": "Seagate Portable 2TB External Hard Drive HDD — USB 3.0 for PC, Mac, PlayStation, & Xbox -1-Year Rescue Service (STGX2000400)",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 2500,
+  "image": "assets/Electronics2.jpg",
+  "product_id": 3
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799q"
+  },
+  "description": "HP 67XL Black High-yield Ink Cartridge | Works with HP DeskJet 1255, 2700, 4100 Series, HP ENVY 6000, 6400 Series | Eligible for Instant Ink",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1599,
+  "image": "assets/Electronics3.jpg",
+  "product_id": 3
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799r"
+  },
+  "description": "Apple AirPods (2nd Generation) Wireless Earbuds with Lightning Charging Case Included. Over 24 Hours of Battery Life, Effortless Setup.",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 12999,
+  "image": "assets/Electronics4.jpg",
+  "product_id": 3
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799s"
+  },
+  "description": "Roku Express 4K+ | Streaming Player HD/4K/HDR with Roku Voice Remote with TV Controls, Includes Premium HDMI Cable",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 399,
+  "image": "assets/Electronics5.jpg",
+  "product_id": 3
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799t"
+  },
+  "description": "Logitech MK270 Wireless Keyboard And Mouse Combo For Windows, 2.4 GHz Wireless, Compact Mouse, 8 Multimedia And Shortcut Keys",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 250,
+  "image": "assets/Electronics6.jpg",
+  "product_id": 3
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799u"
+  },
+  "description": "Bodyprox Ankle Support Brace, Breathable Neoprene Sleeve, Adjustable Wrap!",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 399,
+  "image": "assets/fit1.jpg",
+  "product_id": 4
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799v"
+  },
+  "description": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Women, Men, and Kids, Adjustable Steel Jump Rope Workout with Foam",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 549,
+  "image": "assets/fit2.jpg",
+  "product_id": 4
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799w"
+  },
+  "description": "HotHands Hand Warmer Value Pack (10 Pair)",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1299,
+  "image": "assets/fit3.jpg",
+  "product_id": 4
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799x"
+  },
+  "description": "Bodyprox Elbow Brace 2 Pack for Tennis & Golfer's Elbow Pain Relief",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 499,
+  "image": "assets/fit4.jpg",
+  "product_id": 4
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799y"
+  },
+  "description": "MarCoolTrip MZ ABS Stimulator, Ab Machine, Abdominal Toning Belt Workout Portable Ab Stimulator Home Office Fitness Workout",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1599,
+  "image": "assets/fit5.jpg",
+  "product_id": 4
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce799z"
+  },
+  "description": "ComfyBrace Posture Corrector-Back Brace for Men and Women- Fully Adjustable Straightener for Mid, Upper Spine Support- Neck, Shoulder",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 899,
+  "image": "assets/fit6.jpg",
+  "product_id": 4
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800a"
+  },
+  "description": "Garmin Venu 2 Plus, GPS Smartwatch with Call and Text, Advanced Health Monitoring and Fitness Features, Light Gold with Ivory Band",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 2599,
+  "image": "assets/w1",
+  "product_id": 5
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800b"
+  },
+  "description": "Smart Watch for Men Women, 2022 Fitness Tracker 1.69" Touch Screen Smartwatch Fitness Watch 25 Sports IP68 Waterproof, Heart Rate/Sleep Monitor/Pedometer/Calories, Activity Tracker for Android iPhone",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1599,
+  "image": "assets/w2.jpg",
+  "product_id": 5
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800c"
+  },
+  "description": "Fitness Tracker with Heart Rate Monitor, Fitpolo Smart Watch 1.3 inches Color Touch Screen IP68 Waterproof Step Calorie Counter Sleep Monitoring Pedometer Watches Activity Tracker for Women Men",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 3999,
+  "image": "assets/w6.jpg",
+  "product_id": 5
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800d"
+  },
+  "description": "Smart Watch, Fitness Tracker Watch with 24 Sports Modes, 5ATM Swimming Waterproof, Sleep Monitor Step Calorie Counter, 1.7" HD Touchscreen Smartwatch for Men Women iPhone IOS Android Compatiable",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 3500,
+  "image": "assets/w3.jpg",
+  "product_id": 5
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800e"
+  },
+  "description": "ENGERWALL Fitness Tracker with Heart Rate & Temperature Monitor, Waterproof Activity Tracker with Pedometer & Sleep Monitor, Calories, 16 Sport Modes, Smart Watch Pedometer Watch for Men Women Kids",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 2699,
+  "image": "assets/w4.jpg",
+  "product_id": 5
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800f"
+  },
+  "description": "Fitbit Versa 4 Fitness Smartwatch with Daily Readiness, GPS, 24/7 Heart Rate, 40+ Exercise Modes, Sleep Tracking and more, Waterfall Blue/Platinum, One Size (S & L Bands Included)",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1699,
+  "image": "assets/w5.jpg",
+  "product_id": 5
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800g"
+  },
+  "description": "KSIPZE 100ft Led Strip Lights RGB Music Sync Color Changing, Bluetooth Led Lights with Smart App Control Remote, Led Lights for Bedroom",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 359,
+  "image": "assets/l1.jpg",
+  "product_id": 6
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800h"
+  },
+  "description": "3D Big Cloud lightning Light Kit Music Sync Warm White Multicolor lightning Changing Strip Lights 360 Degree Wireless Remote APP NO DIY",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 499,
+  "image": "assets/l2.jpg",
+  "product_id": 6
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800i"
+  },
+  "description": "Kasa Smart LED Light Strip, 50 Color Zones RGBIC, 16.4ft Wi-Fi LED Strip Works w/ Alexa, Google Home & SmartThings, High Brightness, 16M",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 299,
+  "image": "assets/l3.jpg",
+  "product_id": 6
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800j"
+  },
+  "description": "ASOKO Under Cabinet Lights Motion Sensor USB-C Rechargeable LED Closet Lights Battery Operated Wireless Magnetic Light Strip",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 499,
+  "image": "assets/l4.jpg",
+  "product_id": 6
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800k"
+  },
+  "description": "Kasa Smart LED Light Strip, 16.4ft WiFi LED Strip Works with Alexa, Google Home, SmartThings, High Brightness with 16 Million Colors",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 699,
+  "image": "assets/l5.jpg",
+  "product_id": 6
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800l"
+  },
+  "description": "GHome Smart SL1 TV LED Backlight, Smart WiFi Strip Light Compatible with Alexa and Google Home, App Control, Music Sync 16 Million Rgb",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 399,
+  "image": "assets/l6.jpg",
+  "product_id": 6
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800m"
+  },
+  "description": "10 Inch Android Tablet pc, 32GB ROM 128GB Expand, Octa-Core Tablets, IPS HD Touch Screen, Google Certificated Wi-Fi Tablets, G+G, 8MP",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 29999,
+  "image": "assets/t1.jpg",
+  "product_id": 7
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800n"
+  },
+  "description": "kinstone 10 Inch Android 12 Gaming Tablet -FHD Display, 8GB RAM Tablet,256GB,4G LTE Tablets, 1920x1200 FHD IPS, 13MP Camera,",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 25999,
+  "image": "assets/t2.jpg",
+  "product_id": 7
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800o"
+  },
+  "description": "Android Tablet 10 Inch 4GB RAM 64GB ROM 128GB Expand Android 11.0 Google Certified Tablet with Keyboard, Octa-Core Processor",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 21999,
+  "image": "assets/t3.jpg",
+  "product_id": 7
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800p"
+  },
+  "description": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6" HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 35999,
+  "image": "assets/t4.jpg",
+  "product_id": 7
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800q"
+  },
+  "description": "SAMSUNG Galaxy Tab A7 Lite 8.7" 32GB WiFi Android Tablet w/ Long Lasting Battery, Compact, Slim Design, Sturdy Metal Frame",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 28599,
+  "image": "assets/t5.jpg",
+  "product_id": 7
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800r"
+  },
+  "description": "Lenovo - 2022 - IdeaPad Flex 5i - 2-in-1 Chromebook Laptop Computer - Intel Core i3-1115G4 - 13.3" FHD Touch Display - 8GB Memory - 128GB",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 15999,
+  "image": "assets/t6.jpg",
+  "product_id": 7
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800s"
+  },
+  "description": "Home Zone Living 18.5 Gallon Dual Trash Can for Recycling and Trash with CleanAura Odor Control Compartment, 70 Liter Total",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1299,
+  "image": "assets/k1.jpg",
+  "product_id": 8
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800t"
+  },
+  "description": "Calphalon Performance Dual Oven with Air Fry, Dark Stainless, Amazon",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price":1599,
+  "image": "assets/k2.jpg",
+  "product_id": 8
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800u"
+  },
+  "description": "Vegetable Chopper, Pro Onion Chopper, Multifunctional 13 in 1 Food Chopper, Kitchen Vegetable Slicer Dicer Cutter, Veggie Chopper With 8",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 999,
+  "image": "assets/k3.jpg",
+  "product_id": 8
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800v"
+  },
+  "description": "Silicone Faucet Handle Drip Catcher Tray Mat, Silicone Faucet Mat Dish Soap Sponge Holder for Kitchen Sink Accessories Gadgets, Drying Mat",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1699,
+  "image": "assets/k4.jpg",
+  "product_id": 8
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800w"
+  },
+  "description": "Utopia Towels Kitchen Towels [12 Pack], 15 x 25 Inches, 100% Ring Spun Cotton Super Soft and Absorbent Linen Dish Towels",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 1999,
+  "image": "assets/k5.jpg",
+  "product_id": 8
+},{
+  "_id": {
+    "$oid": "62f71de27824c682ccce800x"
+  },
+  "description": "Fullstar All-in-1 Vegetable Chopper, Mandoline Slicer & Cheese Grater | Multi Blade French Fry Cutter & Veggie Dicer | Includes Bonus",
+  "aggregate_rating": 4.2,
+  "rating_text": "Very Good",
+  "min_price": 899,
+  "image": "assets/k6.jpg",
+  "product_id": 8
+}
+]
