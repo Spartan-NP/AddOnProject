@@ -19,7 +19,7 @@ const Home = () => {
         </div>
         <div className="home__amazonIn">
           <p className="home__amazonInPara">
-            You are on amazon.com. You can also shop on Amazon India fro
+            You are on amazon.com. You can also shop on Amazon India for
             millions of product with fast local delivery.
             <a
               href="https://www.amazon.in/?ref=aisgw_intl_stripe_in"
