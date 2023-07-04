@@ -82,8 +82,6 @@ const Header = () => {
                 <span className="header__optionLineTwo">Location ---</span>
               </>
             )}
-            {/* <span className="header__optionLineOne">Deliver to Pankaj</span>
-            <span className="header__optionLineTwo">Haldwani 246486</span> */}
           </div>
         </div>
 

@@ -12,8 +12,8 @@ const Home = () => {
           <div className="home__container">
             <img
               className="home__image"
-              src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61TD5JLGhIL._SX3000_.jpg"
-              alt=""
+              src="https://m.media-amazon.com/images/I/61zAjw4bqPL._SX3000_.jpg"
+              alt="cover-photo"
             />
           </div>
         </div>
